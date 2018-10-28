@@ -1,2 +1,2 @@
 # FilterFramework
-To simplify the process of creating such a facility, I designed a framework which provides a custom user attribute for tagging filterable fields in a "View Model Object" including a title for each field. In the backend layer, programmers should use the framework to get a list of objects describing filter fields, including their “Title,” “Datatype,” “Name,” for a "View Model Object," these data were used for rendering a filter definition
+This framework helps you to create a complex filter as excel do for filtering data by combining all columns using various operators for all premitive data types.
