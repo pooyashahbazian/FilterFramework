@@ -1,0 +1,10 @@
+?
+=D:\FilterFramework\Filter.Metadata\ComplexFilterDefinition.cs?
+=D:\FilterFramework\Filter.Metadata\FilterMetadataExtractor.csC
+AD:\FilterFramework\Filter.Metadata\FilterParticipatedAttribute.cs8
+6D:\FilterFramework\Filter.Metadata\FilterDefinition.cs6
+4D:\FilterFramework\Filter.Metadata\FilterMetadata.cs;
+9D:\FilterFramework\Filter.Metadata\ComparesionOperator.cs?
+=D:\FilterFramework\Filter.Metadata\Properties\AssemblyInfo.cs8
+6D:\FilterFramework\Filter.Metadata\SimpleFilterData.csX
+TC:\Users\Pooya\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs

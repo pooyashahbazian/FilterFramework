@@ -1,0 +1,9 @@
+6
+4D:\FilterFramework\Filter.Framework\FilterBuilder.cs@
+>D:\FilterFramework\Filter.Framework\Properties\AssemblyInfo.csG
+ED:\FilterFramework\Filter.Framework\Specification\AndSpecification.csI
+GD:\FilterFramework\Filter.Framework\Specification\FieldSpecification.csF
+DD:\FilterFramework\Filter.Framework\Specification\OrSpecification.csH
+FD:\FilterFramework\Filter.Framework\Specification\ParameterReplacer.csD
+BD:\FilterFramework\Filter.Framework\Specification\Specification.csX
+TC:\Users\Pooya\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs

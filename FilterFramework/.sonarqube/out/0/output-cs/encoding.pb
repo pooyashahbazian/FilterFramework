@@ -1,0 +1,9 @@
+F
+=D:\FilterFramework\Filter.Metadata\ComplexFilterDefinition.csutf-8F
+=D:\FilterFramework\Filter.Metadata\FilterMetadataExtractor.csutf-8J
+AD:\FilterFramework\Filter.Metadata\FilterParticipatedAttribute.csutf-8?
+6D:\FilterFramework\Filter.Metadata\FilterDefinition.csutf-8=
+4D:\FilterFramework\Filter.Metadata\FilterMetadata.csutf-8B
+9D:\FilterFramework\Filter.Metadata\ComparesionOperator.csutf-8F
+=D:\FilterFramework\Filter.Metadata\Properties\AssemblyInfo.csutf-8?
+6D:\FilterFramework\Filter.Metadata\SimpleFilterData.csutf-8
